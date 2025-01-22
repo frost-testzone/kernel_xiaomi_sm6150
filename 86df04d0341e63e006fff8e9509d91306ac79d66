@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "140e10de_370f4ff0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34494
+      },
+      "writtenOn": "2025-01-22T21:08:05Z",
+      "side": 1,
+      "message": "sm6150 kernel failed during the compilation for Xiaomi tucana with the error message \"A function declaration without a prototype is deprecated in all versions of C\" in goodix_ts_core.c and ftsIO.c\". Therefore, I added VOID to the prototypes.",
+      "revId": "86df04d0341e63e006fff8e9509d91306ac79d66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
