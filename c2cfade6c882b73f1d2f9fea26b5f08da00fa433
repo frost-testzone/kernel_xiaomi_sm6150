@@ -33,6 +33,24 @@
       "message": "@github@m-eng.net please leave a V+1 vote indicating that this builds",
       "revId": "c2cfade6c882b73f1d2f9fea26b5f08da00fa433",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "91a8a3aa_44ac4f13",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34494
+      },
+      "writtenOn": "2025-01-23T21:18:24Z",
+      "side": 1,
+      "message": "Simple answer: because it was proposed in the wiki:\nhttps://wiki.lineageos.org/how-to/submitting-patches/\n\nFor all other repos, add the Trusted Reviewers or Committers.\n\nSo, I added the people listed here under reviewers:\nhttps://wiki.lineageos.org/contributors#trusted-reviewers\n\nDo you have any proposal for selecting reviewers the next time?",
+      "parentUuid": "47c5defe_0edd1d89",
+      "revId": "c2cfade6c882b73f1d2f9fea26b5f08da00fa433",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
