@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47c5defe_0edd1d89",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-01-23T05:47:39Z",
+      "side": 1,
+      "message": "Seems fine to me but not sure why you added those reviewers",
+      "revId": "c2cfade6c882b73f1d2f9fea26b5f08da00fa433",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
