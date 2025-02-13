@@ -22,6 +22,30 @@
       },
       "revId": "6aa5ec19932a2eacd31e0ed1fabc9ac7eb90cea6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6b104567_6325d19f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-02-13T13:37:30Z",
+      "side": 1,
+      "message": "could pick the commit from pixel 4.14 tree:\nhttps://android.googlesource.com/kernel/msm/+/3e961b57ca1eabf47bedf91efa8d5aea77f405d9",
+      "parentUuid": "6993d2f8_46c34e9e",
+      "range": {
+        "startLine": 9,
+        "startChar": 20,
+        "endLine": 9,
+        "endChar": 60
+      },
+      "revId": "6aa5ec19932a2eacd31e0ed1fabc9ac7eb90cea6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
